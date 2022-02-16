@@ -6,14 +6,14 @@ function creerEleve(nom, note) {
     return eleve;
 };
 
-tabEleve.push(creerEleve('tata',8));
-tabEleve.push(creerEleve('tate',12));
-tabEleve.push(creerEleve('tota',9));
-tabEleve.push(creerEleve('taitau',12));
-tabEleve.push(creerEleve('titu',17));
-tabEleve.push(creerEleve('tuti',18));
-tabEleve.push(creerEleve('tete',15));
-tabEleve.push(creerEleve('tato',13));
+tabEleve.push(creerEleve('lola',8));
+tabEleve.push(creerEleve('lune',12));
+tabEleve.push(creerEleve('laila',9));
+tabEleve.push(creerEleve('lona',12));
+tabEleve.push(creerEleve('pita',17));
+tabEleve.push(creerEleve('harry',18));
+tabEleve.push(creerEleve('sam',15));
+tabEleve.push(creerEleve('vaughn',13));
 
 
 
